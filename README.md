@@ -51,7 +51,7 @@ THEN I should have proper build scripts for a webpack application
 
 <b>Run Build Successful:</b>
 
-![](/assets/images/sucess-run-build.png)
+![](/assets/images/success-run-build.png)
 
 <br>
 
