@@ -55,7 +55,11 @@ THEN I should have proper build scripts for a webpack application
 
 <br>
 
+<b> Render Successful: </b>
 
+![](/assets/images/success-render.png)
+
+<br>
 
 <b> Applications manifest.json file: </b>
 
@@ -66,7 +70,6 @@ THEN I should have proper build scripts for a webpack application
 <b> Applications registered service worker: </b>
 
 ![](/assets/images/service-worker.png)
-
 
 ## Installation
 
