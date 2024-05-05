@@ -1,5 +1,7 @@
 <h1 align = "center"> PWA Text Editor </h1>
 
+This project aims to develop a robust text editor web application designed to allow developers to create and manage notes or code snippets efficiently, with or without an internet connection. The application features a client-server architecture that initializes through simple commands and utilizes technologies like webpack for bundling JavaScript files and IndexedDB for local data storage. The seamless functionality in the browser is ensured even when using next-generation JavaScript, enhancing reliability and user experience. Additionally, the application supports offline capabilities and easy desktop installation, making it an essential tool for developers seeking a dependable and accessible coding environment.
+
 ## Table of Contents
 
 - [User Story](#user-story)
