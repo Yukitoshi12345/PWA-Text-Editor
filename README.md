@@ -61,6 +61,17 @@ THEN I should have proper build scripts for a webpack application
 
 <br>
 
+<b> Applications manifest.json file: </b>
+
+![](/assets/images/manifest.png)
+
+<br>
+
+<b> Applications registered service worker: </b>
+
+![](/assets/images/service-worker.png)
+
+
 ## Installation
 
 The project was uploaded to [GitHub](https://github.com/) at the following repository:
