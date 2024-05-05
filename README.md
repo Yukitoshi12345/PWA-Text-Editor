@@ -1,3 +1,5 @@
+![Badge](https://img.shields.io/badge/License-MIT-yellow.svg) ![JavaScript](https://img.shields.io/badge/JavaScript-orange) ![Node.js](https://img.shields.io/badge/Node.js-blue) ![Express.js@4.18.2](https://img.shields.io/badge/Express.js@4.18.2-purple) ![idb@8.0.0](https://img.shields.io/badge/idb@8.0.0-darkcyan)
+
 <h1 align = "center"> PWA Text Editor </h1>
 
 This project aims to develop a robust text editor web application designed to allow developers to create and manage notes or code snippets efficiently, with or without an internet connection. The application features a client-server architecture that initializes through simple commands and utilises technologies like webpack for bundling JavaScript files and IndexedDB for local data storage. The seamless functionality in the browser is ensured even when using next-generation JavaScript, enhancing reliability and user experience. Additionally, the application supports offline capabilities and easy desktop installation, making it an essential tool for developers seeking a dependable and accessible coding environment.
@@ -6,6 +8,7 @@ This project aims to develop a robust text editor web application designed to al
 
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
+- [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [License](#license)
 
@@ -46,6 +49,12 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application
 ```
+
+## Technologies Used
+- JavaScript
+- Node.js
+- Express.js (version 4.19.2)
+- idb (version 8.0.0)
 
 ## Screenshot
 
