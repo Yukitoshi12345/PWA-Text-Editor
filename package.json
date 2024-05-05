@@ -1,7 +1,7 @@
 {
-  "name": "jate",
+  "name": "JATE",
   "version": "1.0.0",
-  "description": "<h1 align = \"center\"> Text Editor </h1>",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
