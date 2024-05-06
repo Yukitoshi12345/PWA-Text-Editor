@@ -70,13 +70,13 @@ THEN I should have proper build scripts for a webpack application
 
 <br>
 
-<b> Applications manifest.json file: </b>
+<b> Application for `manifest.json` file: </b>
 
 ![](/assets/images/manifest.png)
 
 <br>
 
-<b> Applications registered service worker: </b>
+<b> Application for registered service worker: </b>
 
 ![](/assets/images/service-worker.png)
 
