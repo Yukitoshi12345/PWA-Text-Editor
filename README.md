@@ -10,6 +10,7 @@ This project aims to develop a robust text editor web application designed to al
 - [Acceptance Criteria](#acceptance-criteria)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
+- [Central Grader Comments](#central-grader-comments)
 - [License](#license)
 
 ## User Story
@@ -51,6 +52,7 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 ## Technologies Used
+
 - JavaScript
 - Node.js
 - Express.js (version 4.19.2)
@@ -88,6 +90,22 @@ The project was uploaded to [GitHub](https://github.com/) at the following repos
 <br>
 
 You can access the deployed application with the Render link: https://pwa-text-editor-tjti.onrender.com
+
+## Central Grader Comments
+
+Grade: 100/100
+
+Hello Yukitoshi,
+
+Greetings, Yukitoshi! Excellent work on the homework assignment! You have submitted the link to your GitHub repository which contains your application code, and you have submitted the link to your deployed application which loads without any 404 or Render errors. Well done! You have done very well regarding the technical acceptance criteria! You have created an object store using IndexedDB, and you have included both GET and PUT methods. Your application works without an internet connection. You have bundled your application with webpack, created a workbox service worker that caches static assets, used Babel for async/await, generated a manifest.json file using the WebpackPwaManifest plugin and your application can be installed as a progressive web application (PWA). Your content does get saved to local storage and to the jate object store when the DOM window is unfocused, and it remains there even after the application is refreshed. Impressively, you've ensured that the content is successfully retrieved and displayed in the text editor after the page has been refreshed, maintaining data persistence flawlessly.
+
+Your repository quality was fantastic! Your repository quality was fantastic! Your repository has a unique name. It follows best practices in terms of file structure and file naming conventions. It also follows proper coding conventions in terms of indentation, class/id naming conventions, comments and overall coding structure. You have multiple descriptive commits. Your README file has a link to your deployed application. You have included a compelling description of your application in your own words, which greatly enhances the README file. Additionally, you have included a screenshot of the application itself, which effectively illustrates its functionality and user interface. These additions have significantly enriched your repository, providing a complete and engaging overview of what your application entails and how it looks when deployed.
+
+Overall, this was a fantastic submission! In terms of the user experience, your application is intuitive and easy to navigate. In terms of the user interface style, it is very clean and polished. Your application now perfectly matches the mock-up functionality, reflecting an exact realization of the design specifications. This demonstrates your meticulous attention to detail and your ability to translate requirements into a polished and fully functional product. You have demonstrated a strong ability to build a PWA application, and you are turning out to be a strong web developer!
+
+As always, if you require any assistance regarding this assignment, do not hesitate to reach out to instructional staff during office hours or any of our Learning Assistants. We are always happy to help. I wish you the best of luck on your coding journey, Yukitoshi.
+
+- QP, Centralized Grading.
 
 ## License
 
